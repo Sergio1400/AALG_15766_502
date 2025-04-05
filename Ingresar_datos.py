@@ -1,0 +1,7 @@
+#Forma 1 de ingresar input()
+print("Como te llamas?")
+n = input()
+print(f"hola {n}")
+#Forma 2 de ingresar input()
+n = input("Bro, como te llamas?\n")
+print(f"hola {n}")
